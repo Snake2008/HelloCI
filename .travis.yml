@@ -1,5 +1,7 @@
 language: cpp
 
+image: circleci/node:4.8.2
+
 before_install:
 - echo "测试CI"
 
