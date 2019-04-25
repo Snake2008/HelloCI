@@ -1,4 +1,4 @@
-language: ruby
-rvm:
- - 2.2
- - jruby
+language: cpp
+
+before_install:
+- echo "测试CI"
