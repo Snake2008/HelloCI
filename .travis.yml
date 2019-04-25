@@ -2,3 +2,5 @@ language: cpp
 
 before_install:
 - echo "测试CI"
+
+script: echo "脚本测试"
